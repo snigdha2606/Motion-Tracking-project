@@ -1,2 +1,4 @@
 # Motion-Tracking-project
-Motion Tracking for Medical Imaging
+Motion Tracking for Medical Imaging.
+
+Abstract— Acquisition of medical images (e.g. PET, MRI, etc.) often requires a patient to remain motionless for long periods of time. Even the most compliant patients can’t meet this requirement. Motion compensation methods are used to alleviate this challenge. To compensate for this involuntary movement, one tracks the motion of the patients and incorporates this information into an image reconstruction algorithm. In this paper, we explore three methods of 3D motion tracking of patients using digital images. The three methods are: (1) tracking the motion of an object using two cameras and a geometric target, (2) tracking the motion of an object using one camera and a geometric target, and (3) tracking the motion of an object using two cameras and feature detection algorithms. Our results indicate that methods (1) and (2) may be better suited for robust motion tracking.
