@@ -6,12 +6,6 @@ Dependencies
 - OpenCV (cv2)
 - Numpy
 
-Usage
-1. Ensure that the required libraries are installed.
-2. Place the input images ('temple_1.png' and 'temple_2.png') in the specified directory ('/content/') or modify the file paths in the code accordingly.
-3. Run the code to execute the image matching and stitching process.
-4. The result will be displayed, showing the stitched image.
-
 Code Explanation
 1. The code first loads the two input images and converts them to grayscale using the OpenCV library.
 2. The SIFT object is created to detect keypoints and compute descriptors for each image.
